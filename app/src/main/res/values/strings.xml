@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LearnTextView</string>
+    <string name="txt_msg">Hello Lê Nhật</string>
+    <string name="text_goodbye">Chao tam biet</string>
+    <string name="luu">Lưu</string>
+    <string name="txt_editText">Nhập dữ liệu</string>
+    <string name="hint_mk">Nhập mật khẩu</string>
+    <string name="custom_password">custom password</string>
+    <string name="login">Login</string>
+    <string name="hint_email">Nhập email</string>
+    <string name="hint_pass">Nhập mật khẩu</string>
+    <string name="btn_login">Login</string>
+</resources>
